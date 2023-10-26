@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GeorgePius
 - 👀 I’m interested in cyber security
 - 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on ethical hacking projects
 - 📫 How to reach me www.linkedin.com/in/george-p-kurias-2b65b4254
 
 <!---
